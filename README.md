@@ -32,9 +32,15 @@ The color of the letters mean:
 - Orange: Right letter in the wrong position
 - Red: Wrong letter
 
-After 6 wrong guesses, the correct word will be shown and the next game starts. 
+After 6 wrong guesses, the correct word will be shown and the next game starts.
 
 To end the game, press `Ctl + C` in the terminal.
+
+## Limitations
+
+1. It does not prevent user from entering the same word of the previous guess
+
+2. The only way to exit the game is to press `Ctl + C` in the terminal
 
 ## References
 
